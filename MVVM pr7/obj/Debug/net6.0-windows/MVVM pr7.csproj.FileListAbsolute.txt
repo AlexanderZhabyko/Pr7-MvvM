@@ -1,0 +1,23 @@
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.csproj.AssemblyReference.cache
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7_MarkupCompile.cache
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\bin\Debug\net6.0-windows\MVVM pr7.exe
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\bin\Debug\net6.0-windows\MVVM pr7.deps.json
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\bin\Debug\net6.0-windows\MVVM pr7.runtimeconfig.json
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\bin\Debug\net6.0-windows\MVVM pr7.dll
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\bin\Debug\net6.0-windows\MVVM pr7.pdb
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.g.resources
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.AssemblyInfoInputs.cache
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.AssemblyInfo.cs
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.csproj.CoreCompileInputs.cache
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.dll
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\refint\MVVM pr7.dll
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.pdb
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.genruntimeconfig.cache
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\ref\MVVM pr7.dll
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7.csproj.CopyComplete
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\MVVM pr7_MarkupCompile.lref
+C:\Users\zhaby\Documents\c#\MVVM pr7\MVVM pr7\obj\Debug\net6.0-windows\View\MainWindow.baml

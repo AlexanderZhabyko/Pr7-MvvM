@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3Q38TKZLU20hHAyoitfw4cFr3XcaRkhL2VCSKvf/i5qbL7aQn0nWvxFUHDCgm78CnI4HMP2ZB1rumKPkw+tUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhaby\\Documents\\c#\\MVVM pr7\\MVVM pr7\\MVVM pr7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhaby\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
